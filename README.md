@@ -27,9 +27,9 @@ A collection of classic machine learning algorithms implemented from scratch in 
 
 ## Project Structure
 
-- `Linear Regression.ipynb` — Linear regression from scratch
-- `Logistic Regression.ipynb` — Logistic regression from scratch
-- `Decision Tree Classifier.ipynb` — Decision tree classifier from scratch
+- `Algorithms/Linear Regression.ipynb` — Linear regression from scratch
+- `Algorithms/Logistic Regression.ipynb` — Logistic regression from scratch
+- `Algorithms/Decision Tree Classifier.ipynb` — Decision tree classifier from scratch
 - `README.md` — Project overview and instructions
 
 ## Notes
